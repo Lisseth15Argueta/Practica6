@@ -1,0 +1,15 @@
+#miBoton{
+    font-size: 18px;
+    padding-top: 10px 20px;
+    background-color: blueviolet;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s #0000 ;
+}
+
+#miBoton.hover{
+    background-color: chartreuse;
+}
+
